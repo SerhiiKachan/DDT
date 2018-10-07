@@ -1,0 +1,10 @@
+# class-files
+*.class
+
+# log-files
+*.log
+
+#IntellijIdea files and build files
+*.iml
+.idea/
+target/
